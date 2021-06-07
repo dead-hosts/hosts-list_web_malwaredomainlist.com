@@ -20,7 +20,6 @@
         "gov.ae",
         "mil.ae",
         "net.ae",
-        "ngrok.io",
         "nom.ae",
         "org.ae",
         "sch.ae"
@@ -8288,6 +8287,7 @@
         "lib.in.us",
         "lib.ks.us",
         "lib.ky.us",
+        "lib.la.us",
         "lib.ma.us",
         "lib.md.us",
         "lib.me.us",
@@ -8468,10 +8468,6 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
-    ],
-    "xn--j6w193g": [
-        "lib.la.us",
-        "xn--gmqw5a.xn--j6w193g"
     ],
     "xyz": [
         "blogsite.xyz",
