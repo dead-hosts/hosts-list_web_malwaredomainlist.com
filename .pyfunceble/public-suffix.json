@@ -1510,6 +1510,7 @@
         "firewall-gateway.de",
         "frusky.de",
         "fuettertdasnetz.de",
+        "git-repos.de",
         "goip.de",
         "günstigbestellen.de",
         "günstigliefern.de",
@@ -1911,7 +1912,6 @@
         "blogspot.hk",
         "com.hk",
         "edu.hk",
-        "git-repos.de",
         "gov.hk",
         "idv.hk",
         "inc.hk",
@@ -3989,6 +3989,7 @@
         "shimane.jp",
         "shimane.shimane.jp",
         "shimizu.hokkaido.jp",
+        "shimizu.shizuoka.jp",
         "shimoda.shizuoka.jp",
         "shimodate.ibaraki.jp",
         "shimofusa.chiba.jp",
@@ -4596,7 +4597,6 @@
         "gov.kp",
         "org.kp",
         "rep.kp",
-        "shimizu.shizuoka.jp",
         "tra.kp"
     ],
     "kr": [
@@ -6776,7 +6776,6 @@
     ],
     "nu": [
         "enterprisecloud.nu",
-        "inc.hk",
         "merseine.nu",
         "mine.nu",
         "nom.nu",
