@@ -2437,7 +2437,6 @@
         "mediocampidano.it",
         "messina.it",
         "mi.it",
-        "milan.it",
         "milano.it",
         "mn.it",
         "mo.it",
@@ -3503,6 +3502,7 @@
         "mikasa.hokkaido.jp",
         "mikawa.yamagata.jp",
         "miki.hyogo.jp",
+        "milan.it",
         "mima.tokushima.jp",
         "mimata.miyazaki.jp",
         "minakami.gunma.jp",
@@ -5694,6 +5694,7 @@
         "kinghost.net",
         "knx-server.net",
         "krellian.net",
+        "localzone.xyz",
         "lon-1.paas.massivegrid.net",
         "lon-2.paas.massivegrid.net",
         "map.fastly.net",
@@ -8475,7 +8476,6 @@
     "xyz": [
         "blogsite.xyz",
         "crafting.xyz",
-        "localzone.xyz",
         "telebit.xyz",
         "zapto.xyz"
     ],
